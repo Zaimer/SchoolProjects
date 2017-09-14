@@ -4,7 +4,7 @@ Description: Rock Paper Scissors Game
 Lab Partner: Prinn and Scott
 Status: */
 
-#include <iostring>
+#include <iostream>
 #include <string>
 
 int main()
